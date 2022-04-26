@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\usingBlock\usingBlock\bin\Debug\usingBlock.exe.config
+C:\Users\ucenik\source\repos\usingBlock\usingBlock\bin\Debug\usingBlock.exe
+C:\Users\ucenik\source\repos\usingBlock\usingBlock\bin\Debug\usingBlock.pdb
+C:\Users\ucenik\source\repos\usingBlock\usingBlock\obj\Debug\usingBlock.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\usingBlock\usingBlock\obj\Debug\usingBlock.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\usingBlock\usingBlock\obj\Debug\usingBlock.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\usingBlock\usingBlock\obj\Debug\usingBlock.exe
+C:\Users\ucenik\source\repos\usingBlock\usingBlock\obj\Debug\usingBlock.pdb
